@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DATA 1050
+title: DATA 2050
 subtitle: Brown DSI Data Practicum Course
 use-site-title: true
 ---
